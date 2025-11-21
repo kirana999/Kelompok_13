@@ -54,11 +54,6 @@ Dataset ini bersumber dari UCI Machine Learning Repository dan berisi data trafi
     2.  `fwd_PSH_flag_count` ($0.038006$).
     3.  `fwd_pkts_payload.avg` ($0.037318$).
 
-💡 Rekomendasi Penelitian Lanjutan
-
-  * **Eksplorasi Model Alternatif:** Pengujian model lain seperti **Gradient Boosting**, **XGBoost**, atau metode berbasis **Deep Learning** untuk meningkatkan performa lebih lanjut.
-  * **Generalisasi:** Menguji model pada dataset IoT yang lebih beragam untuk menguji konsistensi dan kemampuan generalisasi model.
-
 👤 Identitas Penulis
 
   * **Penulis:** Aisyah (241572010003) dan Prameswari Kirana Jingga (241572010021).
