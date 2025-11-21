@@ -1,6 +1,10 @@
-Kelompok 13 
+Kelompok 13
 Judul : DETEKSI ANOMALI PADA JARINGAN INTERNET OF THINGS (IoT) MENGGUNAKAN ALGORITMA RANDOM FOREST DENGAN DATASET RT-IOT2022
 
-Nama Anggota :
-Prameswari Kirana Jingga - 241572010021
-Aisyah - 241572010003
+Nama Anggota
+
+Nama : Aisyah 
+NIM : 241572010003
+
+Nama : Prameswari Kirana Jingga
+NIM : 241572010021
